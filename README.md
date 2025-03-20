@@ -26,12 +26,17 @@ Team 13 Winter 2025
         <li><a href="#original-goals">Original Goals</a></li>
           <ul>
             <li><a href="#goals-we-met">Goals We Met</a></li>
-            <li><a href="#our-hopes-and-dreams">Our Hopes and Dreams</a></li>
+            <li><a href="#future-goals">Future Goals</a></li>
               <ul>
                 <li><a href="#stretch-goal-1">Stretch Goal 1</a></li>
                 <li><a href="#stretch-goal-2">Stretch Goal 2</a></li>
                 <li><a href="#stretch-goal-3">Stretch Goal 3</a></li>
               </ul>
+            <li><a href="#features">Features</a></li>
+            <ul><a href="#hardware-list">Hardware List</a></li>
+            <ul><a href="#implementation">Implementation</a></li>
+            <ul><a href="#hand-gesture-recognition">Hand Gesture Recognition</a></li>
+            <ul><a href="#lidar-safety-system">LiDAR Safety System</a></li>
           </ul>
         <li><a href="#final-project-documentation">Final Project Documentation</a></li>
       </ul>
