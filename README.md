@@ -33,10 +33,10 @@ Team 13 Winter 2025
                 <li><a href="#stretch-goal-3">Stretch Goal 3</a></li>
               </ul>
             <li><a href="#features">Features</a></li>
-            <ul><a href="#hardware-list">Hardware List</a></li>
-            <ul><a href="#implementation">Implementation</a></li>
-            <ul><a href="#hand-gesture-recognition">Hand Gesture Recognition</a></li>
-            <ul><a href="#lidar-safety-system">LiDAR Safety System</a></li>
+            <li><a href="#hardware-list">Hardware List</a></li>
+            <li><a href="#implementation">Implementation</a></li>
+            <li><a href="#hand-gesture-recognition">Hand Gesture Recognition</a></li>
+            <li><a href="#lidar-safety-system">LiDAR Safety System</a></li>
           </ul>
         <li><a href="#final-project-documentation">Final Project Documentation</a></li>
       </ul>
