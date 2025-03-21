@@ -226,8 +226,6 @@ Risab, Hugo, Roger, Ricardo
 
 ![image](https://github.com/UCSD-ECEMAE-148/winter-2024-team-2aka8/blob/main/media/148groupphoto.jpg)
 
-<!-- Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
